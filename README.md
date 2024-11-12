@@ -1,7 +1,7 @@
 <H4>Evangelin.S</H4>
 <H4>212221230025</H4>
 <H4>EX. NO.7</H4>
-<H4>DATE: 21.10.24</H4>
+<H4>DATE: 12.11.24</H4>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 
 ## Aim: 
